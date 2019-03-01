@@ -32,7 +32,7 @@ Program implemented using Python for ciphering - encryption or decryption of a r
   <br><p align="center"><strong><i>Figure 1</i></strong>: Terminal opened in the working directory</p>
   </p>
   <p align="center">
-  <br><img src="https://user-images.githubusercontent.com/20547074/53672187-d0f72a00-3c9a-11e9-802b-644524a0d0b6.png">
+  <img src="https://user-images.githubusercontent.com/20547074/53672187-d0f72a00-3c9a-11e9-802b-644524a0d0b6.png">
   <br><p align="center"><strong><i>Figure 2</i></strong>: Text file before its encryption</p>
   </p>
   <li>To encrypt the file, type command: <code> python3 run_caesar.py message.txt 20 e</code></li>
