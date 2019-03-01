@@ -29,7 +29,7 @@ Program implemented using Python for ciphering - encryption or decryption of a r
   <li>Open terminal or powershell in the directory where program, its dependencies and the text file to be ciphered are located.</li>
   <p align="center">
   <br><img src="https://user-images.githubusercontent.com/20547074/53670743-347e5900-3c95-11e9-99a9-f57f65b9d360.png">
-  <br><figcaption><strong><i>Figure 1</i></strong>: Terminal opened in the working directory</figcaption>
+  <br><figcaption align="center"><strong><i>Figure 1</i></strong>: Terminal opened in the working directory</figcaption>
   </p>
   <li>To encrypt the file, type command: <code> python3 run_caesar.py message.txt 20 e </code>. File after encryption shown in <i>Figure 3</i></li>
   <li>To get back original text file (decryption): <code> python3 run_caesar.py message.txt 20 d </code></li>
