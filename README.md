@@ -19,7 +19,4 @@ Program implemented using Python for ciphering - encryption or decryption of a r
   <li> Program is simply run using command (use tab key for autocompletion):  <code> 'python - windows, python3 - linux or mac os' run_caesar.py 'text file' 'key value - 0 - 25' '‘e’ or ‘d’'</code></li>
 </ul>
 
-<figure>
-  ![1](https://user-images.githubusercontent.com/20547074/53670642-dd788400-3c94-11e9-8c6c-0fc076c6408f.png)
-  <figcaption>Figure 1: Terminal opened in the working directory </figcaption>
-</figure>
+![1](https://user-images.githubusercontent.com/20547074/53670743-347e5900-3c95-11e9-99a9-f57f65b9d360.png)
