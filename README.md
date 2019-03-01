@@ -32,14 +32,13 @@ Program implemented using Python for ciphering - encryption or decryption of a r
   <br><p align="center"><strong><i>Figure 1</i></strong>: Terminal opened in the working directory</p>
   </p>
   <p align="center">
-  <br><img src="https://user-images.githubusercontent.com/20547074/53670743-347e5900-3c95-11e9-99a9-f57f65b9d360.png">
+  <br><img src="https://user-images.githubusercontent.com/20547074/53672187-d0f72a00-3c9a-11e9-802b-644524a0d0b6.png">
   <br><p align="center"><strong><i>Figure 2</i></strong>: Text file before its encryption</p>
   </p>
   <li>To encrypt the file, type command: <code> python3 run_caesar.py message.txt 20 e</code></li>
   <p align="center">
-  <br><img src="https://user-images.githubusercontent.com/20547074/53670743-347e5900-3c95-11e9-99a9-f57f65b9d360.png">
-  <br><p align="center"><strong><i>Figure 1</i></strong>: Terminal opened in the working directory</p>
+  <br><img src="https://user-images.githubusercontent.com/20547074/53672188-d18fc080-3c9a-11e9-96b7-0e584688d61a.png">
+  <br><p align="center"><strong><i>Figure 3</i></strong>: Text file after successful encryption. Each of the letters are shifted to the right by 20</p>
   </p>
   <li>To get back original text file (decryption): <code> python3 run_caesar.py message.txt 20 d</code></li>
 </ol>
-
