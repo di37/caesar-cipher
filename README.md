@@ -20,6 +20,6 @@ Program implemented using Python for ciphering - encryption or decryption of a r
 </ul>
 
 <figure>
-  <img src="https://drive.google.com/file/d/1bTevnr6m2DkNdjB2IG5xNNZACWJuEAMv/view?usp=sharing">
+  ![1](https://user-images.githubusercontent.com/20547074/53670642-dd788400-3c94-11e9-8c6c-0fc076c6408f.png)
   <figcaption>Figure 1: Terminal opened in the working directory </figcaption>
 </figure>
