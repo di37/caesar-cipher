@@ -21,6 +21,7 @@ Program implemented using Python for ciphering - encryption or decryption of a r
 <ul>
   <li> To check theoretical details of Caesar Cipher: https://en.wikipedia.org/wiki/Caesar_cipher </li>
   <li> Program is simply run using command (use tab key for autocompletion):  <code> (python - windows, python3 - linux or mac os) run_caesar.py (text file) (key: 0 - 25) (ciphering option: ‘e’ or ‘d’)</code></li>
+  <li>To avoid loss of original information from the text file, extra exceptions are raised such that the users enter the parameters correctly in CLI</li>
 </ul>
 
 ## Demo - Running run_caesar.py program
