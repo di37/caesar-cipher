@@ -20,13 +20,13 @@ Program implemented using Python for ciphering - encryption or decryption of a r
 
 <ul>
   <li> To check theoretical details of Caesar Cipher: https://en.wikipedia.org/wiki/Caesar_cipher </li>
-  <li> Program is simply run using command (use tab key for autocompletion):  <code> 'python - windows, python3 - linux or mac os' run_caesar.py 'text file' 'key value - 0 - 25' '‘e’ or ‘d’'</code></li>
+  <li> Program is simply run using command (use tab key for autocompletion):  <code> (python - windows, python3 - linux or mac os) run_caesar.py (text file) (key: 0 - 25) (ciphering option: ‘e’ or ‘d’)</code></li>
 </ul>
 
 ## Demo - Running run_caesar.py program
 
 <ol>
-  <li>Open terminal or powershell in the directory where program, its dependencies and the text file to be ciphered are located.</li>
+  <li>Open terminal or powershell in the directory where program, its dependencies and the text file to be ciphered are located</li>
   <p align="center">
   <br><img src="https://user-images.githubusercontent.com/20547074/53670743-347e5900-3c95-11e9-99a9-f57f65b9d360.png">
   <br><p align="center"><strong><i>Figure 1</i></strong>: Terminal opened in the working directory</p>
@@ -42,3 +42,9 @@ Program implemented using Python for ciphering - encryption or decryption of a r
   </p>
   <li>To get back original text file (decryption): <code> python3 run_caesar.py message.txt 20 d</code></li>
 </ol>
+
+## Resources
+1 Design of Computer Programs | Udacity. 2019. Design of Computer Programs | Udacity. [ONLINE] Available at: https://www.udacity.com/course/design-of-computer-programs--cs212. [Accessed 01 March 2019].
+
+2 3.7.2 Documentation. 2019. 3.7.2 Documentation. [ONLINE] Available at: https://docs.python.org/3/. [Accessed 01 March 2019].
+
